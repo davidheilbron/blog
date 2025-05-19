@@ -1,0 +1,23 @@
+---
+title: Test 01
+author: David
+date: '2025-05-19'
+slug: test-01
+categories:
+  - R
+tags:
+  - test
+description: ~
+image: ~
+math: ~
+license: ~
+hidden: no
+comments: yes
+---
+
+
+```{r}
+
+data <- mtcars
+plot(mtcars)
+```
